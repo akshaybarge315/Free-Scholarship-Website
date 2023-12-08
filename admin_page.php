@@ -13,7 +13,7 @@
 $email = $_POST['email'];
 $password = $_POST['pass'];
 
-if($email == "sskanojiya165@gmail.com" && $password == "admin") {
+if($email == "akshaybarge315@gmail.com" && $password == "admin") {
   ?>
   <body>
 
